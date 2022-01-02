@@ -10,6 +10,8 @@
 3.	Content 
 4.	Body 
 5.	Authorizaton Details
+	![image](https://user-images.githubusercontent.com/12488769/147887199-119bee53-d035-40f9-9c9d-a1f8b0cdf3c6.png)
+
 
 ###On Target: go to Rest API explorer
 - POST
